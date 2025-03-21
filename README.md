@@ -1,4 +1,4 @@
-# DH2650 Individual DevLog 🐱
+# DH2650 Individual DevLog 
 
 Welcome to Natalia Sempere's DevLog! 🐱  
 This is an individual development log for the course **DH2650 Computer Game Design** at KTH.  
