@@ -13,5 +13,7 @@ Stay tuned for coming updates!
 
   ![Initial cocept art for a character](./Images/jack.png)
 
+  <img src="./Images/jack.png" alt="Descripción de la imagen" width="300">
+
 
 
