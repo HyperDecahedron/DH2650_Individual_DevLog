@@ -6,10 +6,9 @@ It will serve as a diary, development updates and a media repository.
 Stay tuned for coming updates!  
 
 <details>
-  <summary>Haz clic aquí para ver más detalles</summary>
+  <summary>27/0/2025</summary>
 
-  Este es el contenido desplegable. Puedes escribir texto, código o cualquier otra cosa aquí.
-
+  ![Descripción de la imagen](./Images/Jack.png)
 
 
 
