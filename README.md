@@ -8,7 +8,7 @@ Stay tuned for coming updates!
 <details>
   <summary>27/0/2025</summary>
 
-  ![Descripción de la imagen](./Images/Jack.png)
+  ![Descripción de la imagen](./Images/jack.png)
 
 
 
