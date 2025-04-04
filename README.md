@@ -11,7 +11,7 @@ Stay tuned for coming updates!
   - The first steps of the project have begun. We have decided to create a 2D pixel art game with a top-down perspective and a story-driven approach.
   - I have used a graphics tablet for the first time in my life and have drawn an initial character concept, in both plain 2D and pixel art. The three stages represent the evolution we plan to implement in the game.
     
-  <img src="./Images/jack.png" alt="Initial cocept art for a character" width="200">
+  <img src="./Images/jack.png" alt="Initial cocept art for a character" width="250">
 </details>
 
 
