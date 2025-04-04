@@ -16,7 +16,11 @@ Stay tuned for coming updates!
 
 
 <details>
-  <summary>27/03/2025</summary>
+  <summary>04/04/2025</summary>
+
+  Started investigatin about how to generate tile maps in unity, and which is the best tile size for us (16 or 32 pixels?). 
+
+  I have implemented the time mechanic in the game. 
 
 </details>
 
