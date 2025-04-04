@@ -12,10 +12,14 @@ Stay tuned for coming updates!
   - I have used a graphics tablet for the first time in my life and have drawn an initial character concept, in both plain 2D and pixel art. The three stages represent the evolution we plan to implement in the game.
     
   <img src="./Images/jack.png" alt="Initial cocept art for a character" width="400">
+</details>
 
 
 <details>
   <summary>27/03/2025</summary>
+
+</details>
+
 
 
 
