@@ -35,7 +35,7 @@ Stay tuned for coming updates!
 
    <img src="./Images/sun1.png" alt="Happy sun and moon" width="250">
    <img src="./Images/sun2.png" alt="Happy sun and moon 2" width="250">
-   <img src="./Images/sun2.png" alt="Creepy sun and moon" width="250">
+   <img src="./Images/sun3.png" alt="Creepy sun and moon" width="250">
 
 </details>
 
