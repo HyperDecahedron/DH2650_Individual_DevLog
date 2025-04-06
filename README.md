@@ -47,9 +47,9 @@ Stay tuned for coming updates!
   - Added postprocessing with URP and Global Volumes to the project. I'm using Unity 2022.3 and this was a nightmare that lasted the whole morning. Finally solved the problem with [this tutorial](https://www.youtube.com/watch?v=YDj-P1r-3ms&t=2s).
   - The postprocessing changes automatically according to the level of creepiness (from 1 to 3).
  
-  <img src="./Images/pp1.png" alt="PP creepiness = 1" width="200">
-   <img src="./Images/pp2.png" alt="PP creepiness = 2" width="200">
-   <img src="./Images/pp3.png" alt="PP creepiness = 3" width="200">
+  <img src="./Images/pp1.png" alt="PP creepiness = 1" width="300">
+   <img src="./Images/pp2.png" alt="PP creepiness = 2" width="300">
+   <img src="./Images/pp3.png" alt="PP creepiness = 3" width="300">
 
 </details>
 
