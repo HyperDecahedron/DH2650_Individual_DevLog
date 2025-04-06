@@ -18,9 +18,24 @@ Stay tuned for coming updates!
 <details>
   <summary>04/04/2025</summary>
 
-  Started investigatin about how to generate tile maps in unity, and which is the best tile size for us (16 or 32 pixels?). 
+- 🧱 **Tile Map Investigation**
+  - Researched how to generate tile maps in Unity.
+  - Compared tile sizes (16px vs 32px).
+  - **Decision:** Using 32px tiles for more details.
 
-  I have implemented the time mechanic in the game. 
+- ⏰ **Time Mechanic**
+  - Implemented in-game time system.
+  - 1 in-game day = 20 real-life minutes (configurable).
+
+- 🌞🌙 **Day/Night Animation**
+  - Drew and implemented an animation that displays a sun or moon based on the in-game time.
+
+- 👻 **Creepiness Mechanic**
+  - Implemented a "creepiness" level that updates every night at 03:00 in game time.
+
+   <img src="./Images/sun1.png" alt="Happy sun and moon" width="250">
+   <img src="./Images/sun2.png" alt="Happy sun and moon 2" width="250">
+   <img src="./Images/sun2.png" alt="Creepy sun and moon" width="250">
 
 </details>
 
