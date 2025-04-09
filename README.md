@@ -64,9 +64,9 @@ Stay tuned for coming updates!
   - Started the interior of the sibling's house, but still in progress. 
  
   <img src="./Images/Belzy_sketch.jpg" alt="img" width="300">
-   <img src="./Images/Belzy_32.jpg" alt="img" width="300">
+   <img src="./Images/Belzy_32.jpg" alt="img" width="400">
    <img src="./Images/interior2.png" alt="img"" width="300">
-   <img src="./Images/interior1.png" alt="img"" width="300">
+   <img src="./Images/interior1.png" alt="img"" width="400">
 
 </details>
 
