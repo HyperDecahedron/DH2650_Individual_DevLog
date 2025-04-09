@@ -53,6 +53,23 @@ Stay tuned for coming updates!
 
 </details>
 
+<details>
+  <summary>Week 15 - Belzy and his house</summary>
+
+- 😈 **Beelzebub (Major Belzy)**
+  - Sketched concept art for Beelzebub. The view for the top-down is still in progress.
+ 
+- 🧱 **Belzy's house**
+  - Created the interior of the Major's house in Unity. 
+  - Started the interior of the sibling's house, but still in progress. 
+ 
+  <img src="./Images/Belzy_sketch.png" alt="img" width="300">
+   <img src="./Images/Belzy_32.png" alt="img" width="300">
+   <img src="./Images/interior2.png" alt="img"" width="300">
+   <img src="./Images/interior1.png" alt="img"" width="300">
+
+</details>
+
 
 
 
