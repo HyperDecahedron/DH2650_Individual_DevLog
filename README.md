@@ -58,17 +58,20 @@ Stay tuned for coming updates!
 
 - 😈 **Beelzebub (Major Belzy)**
   - Sketched concept art for Beelzebub. The view for the top-down is still in progress.
+
+  <img src="./Images/Belzy_sketch.jpg" alt="img" width="300">
+  <img src="./Images/Belzy_32.jpg" alt="img" width="450">
  
 - 🧱 **Belzy's house**
-  - Created the interior of the Major's house in Unity. 
-  - Started the interior of the sibling's house, but still in progress. 
+  - Created the interior of the Major's house in Unity.
+  - Created the interior of a banquet house. 
+  - Started the interior of the sibling's house, but still in progress.
  
-  <div style="margin-top: 100px;">
-    <img src="./Images/Belzy_sketch.jpg" alt="img" width="300">
-    <img src="./Images/Belzy_32.jpg" alt="img" width="450">
-    <img src="./Images/interior2.png" alt="img" width="300">
-    <img src="./Images/interior1.png" alt="img" width="450">
-  </div>
+
+  <img src="./Images/mayor1.png" alt="img" width="300">
+  <img src="./Images/mayor2.png" alt="img" width="300">
+  <img src="./Images/interior2.png" alt="img" width="300">
+  <img src="./Images/interior1.png" alt="img" width="450">
 
 </details>
 
