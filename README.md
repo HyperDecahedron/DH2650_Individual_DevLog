@@ -62,9 +62,9 @@ Stay tuned for coming updates!
 
   <img src="./Images/Belzy_sketch.jpg" alt="img" width="300">
   <img src="./Images/Belzy_32.jpg" alt="img" width="450">
-  <img src="./Images/belz1.jpg" alt="img" width="300">
-  <img src="./Images/belz2.jpg" alt="img" width="300">
-  <img src="./Images/belz3.jpg" alt="img" width="300">
+  <img src="./Images/belz1.jpg" alt="img" width="250">
+  <img src="./Images/belz2.jpg" alt="img" width="250">
+  <img src="./Images/belz3.jpg" alt="img" width="250">
   
 - 🧱 **Belzy's house**
   - Created the interior of the Major's house in Unity.
