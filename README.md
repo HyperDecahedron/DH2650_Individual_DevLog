@@ -82,7 +82,7 @@ Stay tuned for coming updates!
   - Created scene management with fade in/out animations.
   - Created player spawn according to the entrance and exit of each scene.
   - Modified the player and time prefabs to make them consistent across scenes (singletons).
-  - Uploaded project to GitHub. 
+  - Uploaded project to GitHub. [Link to project here](https://github.com/HyperDecahedron/PoppyTown)
 
 </details>
 
