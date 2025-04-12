@@ -77,7 +77,7 @@ Stay tuned for coming updates!
   <img src="./Images/interior2.png" alt="img" width="300">
   <img src="./Images/interior1.png" alt="img" width="450">
 
-  - 🧱 **Unity development**
+- 🧱 **Unity development**
   - Added player movement
   - Created scene management with fade in/out animations.
   - Created player spawn according to the entrance and exit of each scene.
