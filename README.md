@@ -54,7 +54,7 @@ Stay tuned for coming updates!
 </details>
 
 <details>
-  <summary>Week 15 - Belzy and his house</summary>
+  <summary>Week 15 - Belzy and his house && Unity development</summary>
 
 - 😈 **Beelzebub (Major Belzy)**
   - Sketched concept art for Beelzebub.
@@ -76,6 +76,13 @@ Stay tuned for coming updates!
   <img src="./Images/mayor2.png" alt="img" width="300">
   <img src="./Images/interior2.png" alt="img" width="300">
   <img src="./Images/interior1.png" alt="img" width="450">
+
+  - 🧱 **Unity development**
+  - Added player movement
+  - Created scene management with fade in/out animations.
+  - Created player spawn according to the entrance and exit of each scene.
+  - Modified the player and time prefabs to make them consistent across scenes (singletons).
+  - Uploaded project to GitHub. 
 
 </details>
 
