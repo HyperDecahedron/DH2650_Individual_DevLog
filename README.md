@@ -86,6 +86,21 @@ Stay tuned for coming updates!
 
 </details>
 
+<details>
+  <summary>Week 16 - Unity development & UI</summary>
+
+- 🧱 **Unity development**
+   - Finished logic for moving between scenes.
+   - Added Cinemachine camera to follow the user and make it consistent across scenes.
+   - Added map bounds.
+   - Changed UI to a Canvas object so that it always stays on top of the screen.
+   - Changed UI for the sun and added the moral meter with a white flower (good person) and a red flower (bad person).
+
+   <img src="./Images/moral-meter.png" alt="img" width="300">
+
+
+</details>
+
 
 
 
