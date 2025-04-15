@@ -54,7 +54,7 @@ Stay tuned for coming updates!
 </details>
 
 <details>
-  <summary>Week 15 - Belzy and his house && Unity development</summary>
+  <summary>Week 15 - Belzy and his house & Unity development</summary>
 
 - 😈 **Beelzebub (Major Belzy)**
   - Sketched concept art for Beelzebub.
@@ -96,7 +96,7 @@ Stay tuned for coming updates!
    - Changed UI to a Canvas object so that it always stays on top of the screen.
    - Changed UI for the sun and added the moral meter with a white flower (good person) and a red flower (bad person).
 
-   <img src="./Images/moral-meter.png" alt="img" width="300">
+   <img src="./Images/moral-meter.png" alt="img" width="200">
 
 
 </details>
