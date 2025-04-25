@@ -101,6 +101,24 @@ Stay tuned for coming updates!
 
 </details>
 
+<details>
+  <summary>Week 17 - Unity development & More visuals</summary>
+
+- 🧱 **Unity development**
+   - Implemented logic for the dialogs.
+   - Added pixel perfect camera.
+   - Added collisions to Mayor's House.
+   - Implemented different step sounds according to the type of ground.
+   - Implemented logic for interactable objects. 
+
+ - 🖌️ **Visuals**
+   - Created Delilah's animation
+   - Created Belzy's animation in two stages of creepiness (human and half-human).
+   - Polished Mayor's House and created two stages of creepiness.
+   - Added lights.
+
+</details>
+
 
 
 
