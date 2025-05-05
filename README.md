@@ -7,16 +7,13 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 It will serve as a diary, development updates and a media repository.  
 Stay tuned for coming updates!  
 
-## ñlkjñlkj
-
-<details>
-  <summary>##27/03/2025 - Initial concepts</summary>
+## 27/03/2025 - Initial concepts
 
   - The first steps of the project have begun. We have decided to create a 2D pixel art game with a top-down perspective and a story-driven approach.
   - I have used a graphics tablet for the first time in my life and have drawn an initial character concept, in both plain 2D and pixel art. The three stages represent the evolution we plan to implement in the game.
     
   <img src="./Images/jack.png" alt="Initial cocept art for a character" width="250">
-</details>
+
 
 
 <details>
