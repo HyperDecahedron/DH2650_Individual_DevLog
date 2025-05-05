@@ -1,3 +1,5 @@
+<img src="./Images/title.png" width="500">
+
 # DH2650 Individual DevLog 
 
 Welcome to Natalia Sempere's DevLog! 🐱  
