@@ -7,6 +7,8 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 It will serve as a diary, development updates and a media repository.  
 Stay tuned for coming updates!  
 
+## ñlkjñlkj
+
 <details>
   <summary>##27/03/2025 - Initial concepts</summary>
 
