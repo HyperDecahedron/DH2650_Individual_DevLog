@@ -1,4 +1,4 @@
-<img src="./Images/title.png" width="500">
+<img src="./Images/title.png" width="800">
 
 # DH2650 Individual DevLog 
 
