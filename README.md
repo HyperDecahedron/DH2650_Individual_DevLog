@@ -16,8 +16,7 @@ Stay tuned for coming updates!
 
 
 
-<details>
-  <summary>**04/04/2025 - Time and Sun animation</summary>
+## 04/04/2025 - Time and Sun animation
 
 - 🧱 **Tile Map Investigation**
   - Researched how to generate tile maps in Unity.
@@ -39,10 +38,7 @@ Stay tuned for coming updates!
    <img src="./Images/sun3.png" alt="Creepy sun and moon" width="200">
    <img src="./Images/sun4.png" alt="Creepy sun and moon 2" width="200">
 
-</details>
-
-<details>
-  <summary>06/04/2025 - Postprocessing test</summary>
+## 06/04/2025 - Postprocessing test
 
 - 🎩 **Postprocessing progression**
   - Added postprocessing with URP and Global Volumes to the project. I'm using Unity 2022.3 and this was a nightmare that lasted the whole morning. Finally solved the problem with [this tutorial](https://www.youtube.com/watch?v=YDj-P1r-3ms&t=2s).
@@ -52,10 +48,7 @@ Stay tuned for coming updates!
    <img src="./Images/pp2.png" alt="PP creepiness = 2" width="300">
    <img src="./Images/pp3.png" alt="PP creepiness = 3" width="300">
 
-</details>
-
-<details>
-  <summary>Week 15 - Belzy and his house & Unity development</summary>
+## Week 15 - Belzy and his house & Unity development
 
 - 😈 **Beelzebub (Major Belzy)**
   - Sketched concept art for Beelzebub.
@@ -85,10 +78,7 @@ Stay tuned for coming updates!
   - Modified the player and time prefabs to make them consistent across scenes (singletons).
   - Uploaded project to GitHub. [Link to project here](https://github.com/HyperDecahedron/PoppyTown)
 
-</details>
-
-<details>
-  <summary>Week 16 - Unity development & UI</summary>
+## Week 16 - Unity development & UI
 
 - 🧱 **Unity development**
    - Finished logic for moving between scenes.
@@ -100,10 +90,7 @@ Stay tuned for coming updates!
    <img src="./Images/moral-meter.png" alt="img" width="200">
 
 
-</details>
-
-<details>
-  <summary>Week 17 - Unity development & More visuals</summary>
+## Week 17 - Unity development & More visuals
 
 - 🧱 **Unity development**
    - Implemented logic for the dialogs.
@@ -118,7 +105,7 @@ Stay tuned for coming updates!
    - Polished Mayor's House and created two stages of creepiness.
    - Added lights.
 
-</details>
+
 
 
 
