@@ -105,6 +105,52 @@ Stay tuned for coming updates!
    - Polished Mayor's House and created two stages of creepiness.
    - Added lights.
 
+## Week 18 – Diary System, Intro & Sound Design
+
+- 🧱 **Unity development**
+  - Finished the **intro scene** with glitch effects.
+  - Created the **initial cutscene** that introduces the player to the story.
+  - Implemented logic for **interactable objects** in the Mayor’s House so the player can approach and interact with them.
+  - Built the logic for the **in-game diary system** with multiple tabs:
+    1. Mary's diary  
+    2. Possible endings  
+    3. Controls overview  
+
+- 🔊 **Sound Design**
+  - Designed and added sound effects for:
+    - Interactable objects  
+    - Glitch effects in the intro  
+    - Character-specific dialog sounds
+
+- 🖌️ **Visuals**
+  - Designed visuals for the diary UI.
+
+---
+
+## Week 19 – Dialog System & Character's Tasks
+
+- 🧱 **Unity development**
+  - Created a **prefab** for interactable objects with built-in animations and sound.
+  - Implemented the complete **dialog and task system** for all characters, including:
+    - Up to **12 dialog lines** per character.
+    - **3 tasks**:
+      1. **Dante** – Collect a watering can and poppy seeds  
+      2. **Polina** – Clean the fountains  
+      3. **Belzy** – Harvest 5 poppy seeds  
+  - Added interactions across **Poppy Town** (candles, diary, newspapers, shovel).
+  - Integrated **time-based changes** and **post-processing effects**.
+
+- 🔊 **Sound & Music**
+  - Added various **ambient sounds** and a **soundtrack** to enhance atmosphere.
+
+- 🖌️ **Visual Feedback**
+  - Polina now **changes the fountain sprite** before cleaning (sponge as interactable).
+  - Implemented the **Moral Meter** logic based on player choices in dialogs.
+
+
+
+   
+
 
 
 
