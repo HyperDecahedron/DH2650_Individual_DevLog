@@ -51,9 +51,9 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - Implemented a "creepiness" level that updates every night at 03:00 in game time.
 
    <img src="./Images/sun1.png" alt="Happy sun and moon" width="200">
-   <img src="./Images/sun2.png" alt="Happy sun and moon 2" width="210">
-   <img src="./Images/sun3.png" alt="Creepy sun and moon" width="210">
-   <img src="./Images/sun4.png" alt="Creepy sun and moon 2" width="200">
+   <img src="./Images/sun2.png" alt="Happy sun and moon 2" width="205">
+   <img src="./Images/sun3.png" alt="Creepy sun and moon" width="215">
+   <img src="./Images/sun4.png" alt="Creepy sun and moon 2" width="205">
 
 ---
 ## 06/04/2025 - Postprocessing test
