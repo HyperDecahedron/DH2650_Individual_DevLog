@@ -52,6 +52,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
    <img src="./Images/pp2.png" alt="PP creepiness = 2" width="300">
    <img src="./Images/pp3.png" alt="PP creepiness = 3" width="300">
 
+---
 ## Week 15 - Belzy and his house & Unity development
 
 - 😈 **Beelzebub (Major Belzy)**
@@ -82,6 +83,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - Modified the player and time prefabs to make them consistent across scenes (singletons).
   - Uploaded project to GitHub. [Link to project here](https://github.com/HyperDecahedron/PoppyTown)
 
+---
 ## Week 16 - Unity development & UI
 
 - 🧱 **Unity development**
@@ -93,7 +95,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 
    <img src="./Images/moral-meter.png" alt="img" width="200">
 
-
+---
 ## Week 17 - Unity development & More visuals
 
 - 🧱 **Unity development**
@@ -109,6 +111,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
    - Polished Mayor's House and created two stages of creepiness.
    - Added lights.
 
+---
 ## Week 18 – Diary System, Intro & Sound Design
 
 - 🧱 **Unity development**
@@ -130,7 +133,6 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - Designed visuals for the diary UI.
 
 ---
-
 ## Week 19 – Dialog System & Character's Tasks
 
 - 🧱 **Unity development**
@@ -151,20 +153,21 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - Polina now **changes the fountain sprite** before cleaning (sponge as interactable).
   - Implemented the **Moral Meter** logic based on player choices in dialogs.
 
-
-## Week 20 – Final Cutscene & Demo Summary
+---
+## Week 20 – Final Cutscene & More Unity
 
 - 🧱 **Unity development**
   - Implemented the **final cutscene** logic:
     - Triggered when player reaches **state 6** and goes home, or at **22:00**.
     - Shows **Belzy** in the **poppy fields**, seen by **Delilah**.
-    - Dialog reacts to player's discoveries (e.g., **Mary's diary**, prior conversations).
-  - Created a **demo summary screen**, including:
+    - Belzy has a mystic red aura around himself, this has been implemented with a particle system effect downloaded form Unity Asset Store. 
+    - Dialog in the final scene reacts to player's discoveries (e.g., if **Mary's diary** was found, if Delilah talked to Dante/Polina).
+  - Created a **demo score screen**, including:
     - **3 tasks** completed?
     - **Diary** and **newspaper** found?
     - Conversations about **Mary** with **Belzy**, **Dante**, or **Polina**?
     - Shows a final **grade (A–E)** based on progress.
-  - Added **wind effect** and **music transition** to *Wind Forest* theme when player is in **state 5 or above**.
+  - Added **wind effect** and **music transition** when player is in **state 5 or above**.
   - Fixed bugs and adjusted scenes:
     - Removed **E key interactions** during cutscenes.
     - Disabled **poppy script** in the final scene.
@@ -175,7 +178,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 
 - 🔊 **Sound & Music**
   - Added **intro song** to the title screen.
-  - Implemented **water sound effects**.
+  - Implemented **water sound effects** based on the distance of the player to the fountain.
   - Added **state-based transition system** for background music.
 
 - 🖌️ **Visual Feedback**
@@ -185,26 +188,27 @@ This is an individual development log for the course **DH2650 Computer Game Desi
     - Characters appear with **blush** the first time the player talks to them.
     - Characters **smile** when befriended or hiding something.
 
+---
 ## Week 21 – Itch.io Release & Final Polish
+
+In this stage of the game, I decided to change the build platform to WebGL, so that anyone can play in the browser without having to download the executable file. 
 
 - 🧱 **Unity development**
   - Fixed final bugs:
     - Replaced **sponge** for fountain task.
-    - Removed **“Save me!”** dialog from final scene.
-    - Removed extra dialog when entering final scene.
     - Finished **creepy dialog image** for **Belzy**.
   - Implemented **day/night map variants** for:
     - **Poppy Town**, **Forest**, and **Mayor’s House**.
-  - Solved **quality setting bug**:
-    - Ensured all **renderers** use **post-processing**.
-    - Updated quality setting to **Ultra**.
+  - Solved **quality setting bug** in WebGL:
+    - Ensured all **renderers** use Digital and Analgo Glitch post-processing.
+    - Updated WebGL quality settings to **Ultra**.
     - Switched to a **better minimal template**.
 
 - 🔊 **Sound & Music**
-  - Carried over state-based music logic and ambient improvements.
+  - I recorded a synth sound with the sax and added it to the wind sound.
 
 - 🖌️ **Visual Feedback**
-  - Final updates to dialog visuals and map aesthetics.
+  - Updated the position of the UI components relative to the screen. 
 
 - 🚀 **Release**
   - Uploaded the playable demo to **Itch.io**!
