@@ -29,11 +29,8 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - I have used a graphics tablet for the first time in my life and have drawn an initial character concept, in both plain 2D and pixel art. The three stages represent the evolution we plan to implement in the game.
 
 <div align="center">
-  <img src="./Images/jack.png" width="200">
+  <img src="./Images/jack.png" width="250">
 </div>
-    
-  <img src="./Images/jack.png" alt="Initial cocept art for a character" width="250">
-
 
 ---
 ## 04/04/2025 - Time and Sun animation
@@ -55,7 +52,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 
    <img src="./Images/sun1.png" alt="Happy sun and moon" width="200">
    <img src="./Images/sun2.png" alt="Happy sun and moon 2" width="200">
-   <img src="./Images/sun3.png" alt="Creepy sun and moon" width="200">
+   <img src="./Images/sun3.png" alt="Creepy sun and moon" width="220">
    <img src="./Images/sun4.png" alt="Creepy sun and moon 2" width="200">
 
 ---
