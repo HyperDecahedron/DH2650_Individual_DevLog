@@ -145,6 +145,12 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 - 🖌️ **Visuals**
   - Designed visuals for the diary UI.
 
+ <img src="./Images/intro1" width="300">
+ <img src="./Images/intro2" width="300">
+<img src="./Images/diary1" width="200">
+<img src="./Images/diary2" width="200">
+<img src="./Images/diary3" width="200">
+
 ---
 ## Week 19 – Dialog System & Character's Tasks
 
@@ -200,6 +206,8 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - Integrated **dialog images**:
     - Characters appear with **blush** the first time the player talks to them.
     - Characters **smile** when befriended or hiding something.
+   
+<img src="./Images/score" width="500">
 
 ---
 ## Week 21 – Itch.io Release & Final Polish
