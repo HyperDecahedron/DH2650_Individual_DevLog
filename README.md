@@ -51,7 +51,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - Implemented a "creepiness" level that updates every night at 03:00 in game time.
 
 <div align="center">
-  <img src="./Images/suns.png" width="600">
+  <img src="./Images/suns.png" width="550">
 </div>
 
 ---
