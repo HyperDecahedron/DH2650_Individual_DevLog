@@ -147,6 +147,18 @@ This is an individual development log for the course **DH2650 Computer Game Desi
    - Polished Mayor's House and created two stages of creepiness.
    - Added lights.
 
+<div align="center">
+  <img src="./Images/Delilah.png" width="450">
+</div>
+
+<div align="center">
+  <img src="./Images/Belzy-anim1.png" width="450">
+</div>
+
+<div align="center">
+  <img src="./Images/Belzy-anim2.png" width="450">
+</div>
+
 ---
 ## Week 18 – Diary System, Intro & Sound Design
 
