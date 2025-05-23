@@ -127,7 +127,9 @@ This is an individual development log for the course **DH2650 Computer Game Desi
    - Changed UI to a Canvas object so that it always stays on top of the screen.
    - Changed UI for the sun and added the moral meter with a white flower (good person) and a red flower (bad person).
 
-   <img src="./Images/moral-meter.png" alt="img" width="200">
+<div align="center">
+  <img src="./Images/moral-meter.png" width="300">
+</div>
 
 ---
 ## Week 17 - Unity development & More visuals
@@ -166,11 +168,25 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 - 🖌️ **Visuals**
   - Designed visuals for the diary UI.
 
- <img src="./Images/intro1" width="300">
- <img src="./Images/intro2" width="300">
-<img src="./Images/diary1" width="200">
-<img src="./Images/diary2" width="200">
-<img src="./Images/diary3" width="200">
+<div align="center">
+   <img src="./Images/intro1.png" width="450">
+</div>
+
+<div align="center">
+   <img src="./Images/intro2.png" width="450">
+</div>
+
+<div align="center">
+  <img src="./Images/diary1.png" width="450">
+</div>
+
+<div align="center">
+   <img src="./Images/diary2.png" width="450">
+</div>
+
+<div align="center">
+   <img src="./Images/diary3.png" width="450">
+</div>
 
 ---
 ## Week 19 – Dialog System & Character's Tasks
@@ -227,8 +243,11 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - Integrated **dialog images**:
     - Characters appear with **blush** the first time the player talks to them.
     - Characters **smile** when befriended or hiding something.
-   
-<img src="./Images/score" width="500">
+
+<div align="center">
+   <img src="./Images/score.png" width="450">
+</div>
+
 
 ---
 ## Week 21 – Itch.io Release & Final Polish
