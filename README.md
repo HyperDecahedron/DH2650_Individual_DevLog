@@ -10,11 +10,17 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 🥀[Link to the game, play in your browser!](https://hyper-nat.itch.io/poppy-town)
 
 ## Table of Contents
+- [Initial concepts](#27032025---initial-concepts)
+- [Time and Sun animation](#04042025---time-and-sun-animation)
+- [Postprocessing test](#06042025---postprocessing-test)
+- [Week 15 - Belzy and his house & Unity development](#week-15---belzy-and-his-house--unity-development)
+- [Week 16 - Unity development & UI](#week-16---unity-development--ui)
+- [Week 17 - Unity development & More visuals](#week-17---unity-development--more-visuals)
+- [Week 18 – Diary System, Intro & Sound Design](#week-18--diary-system-intro--sound-design)
 - [Week 19 – Dialog System & Character's Tasks](#week-19--dialog-system--characters-tasks)
-- [Week 20 – Final Cutscene & Demo Summary](#week-20--final-cutscene--demo-summary)
+- [Week 20 – Final Cutscene & More Unity](#week-20--final-cutscene--more-unity)
 - [Week 21 – Itch.io Release & Final Polish](#week-21--itchio-release--final-polish)
 - [Final thoughts](#final-thoughts)
-
 
 ---
 ## 27/03/2025 - Initial concepts
