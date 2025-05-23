@@ -98,10 +98,17 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - Started the interior of the sibling's house, but still in progress.
  
 
-  <img src="./Images/mayor1.png" alt="img" width="300">
-  <img src="./Images/mayor2.png" alt="img" width="300">
-  <img src="./Images/interior2.png" alt="img" width="300">
-  <img src="./Images/interior1.png" alt="img" width="450">
+<div align="center">
+  <img src="./Images/mayor1.png" width="500">
+</div>
+
+<div align="center">
+  <img src="./Images/mayor2.png" width="500">
+</div>
+
+<div align="center">
+  <img src="./Images/interior1.png" width="500">
+</div>
 
 - 🧱 **Unity development**
   - Added player movement
