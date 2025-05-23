@@ -29,7 +29,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - I have used a graphics tablet for the first time in my life and have drawn an initial character concept, in both plain 2D and pixel art. The three stages represent the evolution we plan to implement in the game.
 
 <div align="center">
-  <img src="./Images/jack.png" width="250">
+  <img src="./Images/jack.png" width="350">
 </div>
 
 ---
