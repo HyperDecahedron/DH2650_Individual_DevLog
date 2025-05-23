@@ -9,6 +9,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 
 🥀[Link to the game, play in your browser!](https://hyper-nat.itch.io/poppy-town)
 
+---
 ## 27/03/2025 - Initial concepts
 
   - The first steps of the project have begun. We have decided to create a 2D pixel art game with a top-down perspective and a story-driven approach.
@@ -17,7 +18,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   <img src="./Images/jack.png" alt="Initial cocept art for a character" width="250">
 
 
-
+---
 ## 04/04/2025 - Time and Sun animation
 
 - 🧱 **Tile Map Investigation**
@@ -40,6 +41,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
    <img src="./Images/sun3.png" alt="Creepy sun and moon" width="200">
    <img src="./Images/sun4.png" alt="Creepy sun and moon 2" width="200">
 
+---
 ## 06/04/2025 - Postprocessing test
 
 - 🎩 **Postprocessing progression**
@@ -150,6 +152,62 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - Implemented the **Moral Meter** logic based on player choices in dialogs.
 
 
+## Week 20 – Final Cutscene & Demo Summary
+
+- 🧱 **Unity development**
+  - Implemented the **final cutscene** logic:
+    - Triggered when player reaches **state 6** and goes home, or at **22:00**.
+    - Shows **Belzy** in the **poppy fields**, seen by **Delilah**.
+    - Dialog reacts to player's discoveries (e.g., **Mary's diary**, prior conversations).
+  - Created a **demo summary screen**, including:
+    - **3 tasks** completed?
+    - **Diary** and **newspaper** found?
+    - Conversations about **Mary** with **Belzy**, **Dante**, or **Polina**?
+    - Shows a final **grade (A–E)** based on progress.
+  - Added **wind effect** and **music transition** to *Wind Forest* theme when player is in **state 5 or above**.
+  - Fixed bugs and adjusted scenes:
+    - Removed **E key interactions** during cutscenes.
+    - Disabled **poppy script** in the final scene.
+    - Fixed **text box** display for **newspapers** and **villagers**.
+    - Disabled **time object** in the final scene.
+    - Ensured **diary** visibility in the final scene.
+    - Increased size of **Moral Meter** text.
+
+- 🔊 **Sound & Music**
+  - Added **intro song** to the title screen.
+  - Implemented **water sound effects**.
+  - Added **state-based transition system** for background music.
+
+- 🖌️ **Visual Feedback**
+  - Added **Dante animation** for character polish.
+  - Enabled **candle lighting** in final scene.
+  - Integrated **dialog images**:
+    - Characters appear with **blush** the first time the player talks to them.
+    - Characters **smile** when befriended or hiding something.
+
+## Week 21 – Itch.io Release & Final Polish
+
+- 🧱 **Unity development**
+  - Fixed final bugs:
+    - Replaced **sponge** for fountain task.
+    - Removed **“Save me!”** dialog from final scene.
+    - Removed extra dialog when entering final scene.
+    - Finished **creepy dialog image** for **Belzy**.
+  - Implemented **day/night map variants** for:
+    - **Poppy Town**, **Forest**, and **Mayor’s House**.
+  - Solved **quality setting bug**:
+    - Ensured all **renderers** use **post-processing**.
+    - Updated quality setting to **Ultra**.
+    - Switched to a **better minimal template**.
+
+- 🔊 **Sound & Music**
+  - Carried over state-based music logic and ambient improvements.
+
+- 🖌️ **Visual Feedback**
+  - Final updates to dialog visuals and map aesthetics.
+
+- 🚀 **Release**
+  - Uploaded the playable demo to **Itch.io**!
 
    
 
