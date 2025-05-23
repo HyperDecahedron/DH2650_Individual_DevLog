@@ -9,6 +9,13 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 
 🥀[Link to the game, play in your browser!](https://hyper-nat.itch.io/poppy-town)
 
+## Table of Contents
+- [Week 19 – Dialog System & Character's Tasks](#week-19--dialog-system--characters-tasks)
+- [Week 20 – Final Cutscene & Demo Summary](#week-20--final-cutscene--demo-summary)
+- [Week 21 – Itch.io Release & Final Polish](#week-21--itchio-release--final-polish)
+- [Final thoughts](#final-thoughts)
+
+
 ---
 ## 27/03/2025 - Initial concepts
 
@@ -212,6 +219,12 @@ In this stage of the game, I decided to change the build platform to WebGL, so t
 
 - 🚀 **Release**
   - Uploaded the playable demo to **Itch.io**!
+
+
+---
+## Final thoughts
+
+I’m happy with both the process and the result. I worked on the visuals using a graphics tablet for the first time in my life, I contributed to the sound design, and even recorded some of the sounds myself. And of course, I programmed the entire game in Unity. I learned a lot throughout the project.
 
    
 
