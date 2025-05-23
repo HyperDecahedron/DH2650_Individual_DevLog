@@ -107,7 +107,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 </div>
 
 <div align="center">
-  <img src="./Images/interior1.png" width="500">
+  <img src="./Images/interior2.png" width="500">
 </div>
 
 - 🧱 **Unity development**
