@@ -71,12 +71,18 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 - 😈 **Beelzebub (Major Belzy)**
   - Sketched concept art for Beelzebub.
   - Finished top-down view of the character in 32x32
+ 
+<div align="center">
+  <img src="./Images/Belzy_sketch.jpg" width="350">
+</div>
 
-  <img src="./Images/Belzy_sketch.jpg" alt="img" width="300">
-  <img src="./Images/Belzy_32.jpg" alt="img" width="450">
-  <img src="./Images/belz1.jpg" alt="img" width="250">
-  <img src="./Images/belz2.jpg" alt="img" width="250">
-  <img src="./Images/belz3.jpg" alt="img" width="250">
+<div align="center">
+  <img src="./Images/Belzy_32.jpg" width="400">
+</div>
+
+<div align="center">
+  <img src="./Images/belzies.png" width="400">
+</div>
   
 - 🧱 **Belzy's house**
   - Created the interior of the Major's house in Unity.
