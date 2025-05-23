@@ -73,15 +73,15 @@ This is an individual development log for the course **DH2650 Computer Game Desi
   - Finished top-down view of the character in 32x32
  
 <div align="center">
-  <img src="./Images/Belzy_sketch.jpg" width="350">
+  <img src="./Images/Belzy_sketch.jpg" width="450">
 </div>
 
 <div align="center">
-  <img src="./Images/Belzy_32.jpg" width="400">
+  <img src="./Images/Belzy_32.jpg" width="450">
 </div>
 
 <div align="center">
-  <img src="./Images/belzies.png" width="400">
+  <img src="./Images/belzies.png" width="450">
 </div>
   
 - 🧱 **Belzy's house**
