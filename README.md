@@ -2,10 +2,11 @@
 
 # DH2650 Individual DevLog 
 
-Welcome to Natalia Sempere's DevLog! 🐱  
+Welcome to Natalia Sempere's DevLog!   
 This is an individual development log for the course **DH2650 Computer Game Design** at KTH.  
-It will serve as a diary, development updates and a media repository.  
-Stay tuned for coming updates!  
+
+🥀[Link to GitHub project](https://github.com/HyperDecahedron/PoppyTown)
+🥀[Link to the game, play in your browser!](https://hyper-nat.itch.io/poppy-town)
 
 ## 27/03/2025 - Initial concepts
 
