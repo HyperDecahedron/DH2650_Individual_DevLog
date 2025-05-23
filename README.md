@@ -245,7 +245,7 @@ This is an individual development log for the course **DH2650 Computer Game Desi
     - Characters **smile** when befriended or hiding something.
 
 <div align="center">
-   <img src="./Images/score.png" width="450">
+   <img src="./Images/score.png" width="600">
 </div>
 
 
