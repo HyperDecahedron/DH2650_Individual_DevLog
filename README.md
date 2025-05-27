@@ -5,6 +5,12 @@
 Welcome to Natalia Sempere's DevLog!   
 This is an individual development log for the course **DH2650 Computer Game Design** at KTH.  
 
+## Sumary of my contributions
+- Programmed the full game in Unity.
+- World building: Mayor's House.
+- Character Design: Belzy and Delilah's walking animation.
+- Sound Design: UI and environmental sounds. 
+
 🥀[Link to GitHub project](https://github.com/HyperDecahedron/PoppyTown)
 
 🥀[Link to the game, play in your browser!](https://hyper-nat.itch.io/poppy-town)
