@@ -15,6 +15,8 @@ This is an individual development log for the course **DH2650 Computer Game Desi
 
 🥀[Link to the game, play in your browser!](https://hyper-nat.itch.io/poppy-town)
 
+🥀[Link to the game website](https://poppy-town.super.site/)
+
 ## Table of Contents
 - [Initial concepts](#27032025---initial-concepts)
 - [Time and Sun animation](#04042025---time-and-sun-animation)
